@@ -1,7 +1,7 @@
 <h1>Configure Port 0/1/4 on Router</h1>
 
 <h2>Description</h2>
-A ticket-solving practice of configuring a router port in an simulated environment, IT Specialist Simulator.
+A ticket-solving practice of configuring a router port in a simulated environment, IT Specialist Simulator.
 <br />
 
 <h2>Environments Used</h2>
@@ -54,7 +54,7 @@ There was a forum thread about calculating the subnet mask. I know the basics of
 <br/>
 
 <p align="center">
-There was some detailed explantion about subnetting at the top of the thread, but I scrolled down and found one user saying that it's not practical to calculate it manually every time at work and suggests to use a website that calculates it for me.<br/>
+There was some detailed explantion about subnetting at the top of the thread, but I scrolled down and found one user saying that it's not practical to calculate it manually every time at work and suggesting to use a website that calculates it for me.<br/>
 <img width="1466" height="753" alt="image" src="https://github.com/user-attachments/assets/af476a78-e9c0-4c19-9c1a-7883ce4a98ae" />
 
 <br/>
